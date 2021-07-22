@@ -7,7 +7,7 @@ I'm a developer from South East Asia. I mostly do WebAssembly, Rust and JavaScri
 ### Languages
 * JavaScript
 * Rust
-* C++ and C
+* C++, C
 * Python
 * HTML, CSS
 
