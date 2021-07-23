@@ -1,4 +1,7 @@
 # acallaris
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acallaris" />
+</p>
 Hello there, I'm [@acallrais](https://github.com/acallris 'acallris on GitHub'). Nice to meet you
 
 ### About me
