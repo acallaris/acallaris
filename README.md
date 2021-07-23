@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=acallaris" />
 </p>
-Hello there, I'm acallaris. Nice to meet you
-
+Hello there, I'm [@acallaris](https://github.com/acallaris 'acallaris on GitHub'). Nice to meet you
 ### About me
 I'm a developer from South East Asia. I mostly do WebAssembly, Rust and JavaScript. My dream is to become a game developer
 
