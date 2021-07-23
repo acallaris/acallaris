@@ -8,7 +8,7 @@ Hello there, I'm [@acallrais](https://github.com/acallris 'acallris on GitHub').
 I'm a developer from South East Asia. I mostly do WebAssembly, Rust and JavaScript. My dream is to become a game developer
 
 ### Languages
-* JavaScript
+* JavaScript, TypeScript
 * Rust
 * C++, C
 * Python
