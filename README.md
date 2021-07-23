@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=acallaris" />
 </p>
+
 Hello there, I'm [@acallaris](https://github.com/acallaris 'acallaris on GitHub'). Nice to meet you
 
 ### About me
